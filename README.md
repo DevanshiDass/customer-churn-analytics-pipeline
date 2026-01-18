@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis & Prediction System
+# 📊 Customer Churn Analysis & Prediction System using EDA and ML
 
 An end-to-end **Data Science and Machine Learning project** that analyzes customer churn behavior in a telecom dataset, performs feature engineering, trains a predictive model, evaluates its performance, and predicts churn risk for new customers.
 Churn refers to the rate at which customers stop using a company's product or service, or employees leave a company, over a specific period, often expressed as a percentage.
